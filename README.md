@@ -1,4 +1,4 @@
-## Pneuma ![alt text](https://github.com/[lorenzyme]/[PneumaBot]/blob/[main]/Pneuma.png?raw=true)
+## ...<img src="Pneuma.png" alt="icon" width="70"/>... <br> PneumaBot 
 
 Pneuma is a Discord bot that plays music in voice channels. It supports playing music from YouTube by either providing a URL or searching by song title.
     
